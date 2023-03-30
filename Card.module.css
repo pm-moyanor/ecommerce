@@ -1,0 +1,30 @@
+.counter{
+    display: flex;
+    flex-direction: row;
+}
+
+.mainBox{
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+}
+.container{
+background-color: rgba(165, 163, 163, 0.296) ;
+border-radius: 5%;
+width: 230px;
+height: 230px;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 5px;
+
+}
+
+.image{
+    width: 220px;
+}
+
+.info{
+    margin-bottom: 20px;
+   font-size: 16px;
+}
